@@ -1,3 +1,7 @@
 # add the following to _config.yml file
 title: Henry Chen
+description:
+  <br><br>
+  <a href="https://www.linkedin.com/in/ching-yao-henry-chen/">View My LinkedIn Profile</a>
+
 theme: jeykll-theme-minimal
