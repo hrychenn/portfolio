@@ -1,4 +1,4 @@
-# Data Analytics
+# Portfolio
 
 ### Education
 Data Science, University of Michigan
